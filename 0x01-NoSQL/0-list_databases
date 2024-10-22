@@ -1,0 +1,2 @@
+// shows databases located in a mongodb server
+show dbs
